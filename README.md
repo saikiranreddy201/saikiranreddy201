@@ -4,7 +4,10 @@
  <br>
  <!--<img  alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>
+<!--<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>-->
+<!--<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="37%" height="35%" />-->
+<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" height = "250px" width="400px" />
+
 <h3 align="left"> Hey there! 👋
  
  </h3>
