@@ -1,6 +1,13 @@
 
+<p align="center">
+ <img height = "200px" width = "180px" src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
+ <br>
+ <!--<img  alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />-->
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="40%" height="40%" /><br>
-### Hey there! 👋
+<h3 align="left"> Hey there! 👋
+ 
+ </h3>
 This is Sai Kiran Reddy :), A passionate IT Student!<br>
 Currently on track of exploring the world of coding!<br>
 Reach me at : nareddysaikiranreddy@gmail.com
