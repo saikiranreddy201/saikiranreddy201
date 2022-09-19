@@ -8,7 +8,7 @@
 
 
 
- <img align="right" height = "250px" width = "240px"  margin = "2px" src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px">
+ <img align = "right"  height = "250px"  width = "240px"  src = "https://octodex.github.com/images/spidertocat.png" >
  
 <h3 align="left"> Hey there! 👋 </h3>
 This is Sai Kiran Reddy :), A passionate IT Student!<br>
